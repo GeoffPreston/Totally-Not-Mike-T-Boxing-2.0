@@ -1,0 +1,12 @@
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\bin\Debug\Totally Not Mike T Boxing 2.0.exe.config
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\bin\Debug\Totally Not Mike T Boxing 2.0.exe
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\bin\Debug\Totally Not Mike T Boxing 2.0.pdb
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\obj\Debug\Totally Not Mike T Boxing 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\obj\Debug\Totally_Not_Mike_T_Boxing_2._0.Form1.resources
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\obj\Debug\Totally_Not_Mike_T_Boxing_2._0.Properties.Resources.resources
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\obj\Debug\Totally Not Mike T Boxing 2.0.csproj.GenerateResource.Cache
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\obj\Debug\Totally Not Mike T Boxing 2.0.exe
+C:\Users\Geoff\Desktop\Visula Studio Assignments\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\obj\Debug\Totally Not Mike T Boxing 2.0.pdb
+C:\Users\Geoff\Desktop\PutOnGithub\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\bin\Debug\Totally Not Mike T Boxing 2.0.exe.config
+C:\Users\Geoff\Desktop\PutOnGithub\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\obj\Debug\Totally Not Mike T Boxing 2.0.exe
+C:\Users\Geoff\Desktop\PutOnGithub\Totally Not Mike T Boxing 2.0\Totally Not Mike T Boxing 2.0\obj\Debug\Totally Not Mike T Boxing 2.0.pdb
